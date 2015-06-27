@@ -1,4 +1,4 @@
-# 360-Productview-Android-App
+# Draggable 360-Productview-Android-App
 This is a 360 degree product view seeing in shoppingcart sites.like view selcted product by roatating for android, build with jquery runs prefectly in webview.
 
 
@@ -21,7 +21,7 @@ Some Screenshots are given below
 <p><a href="https://github.com/rameshvoltella/360-Productview-Android-App/blob/master/Screenshot_2015-06-27-22-32-12.png" target="_blank"><img src="https://github.com/rameshvoltella/360-Productview-Android-App/blob/master/Screenshot_2015-06-27-22-32-12.png" alt="On Rotation :)" style="max-width:100%;"></a></p>
 
 
-Hash-Tags: how to use
+Draggable 360-Productview-Android-App: how to use
 ------------------------
 
 
