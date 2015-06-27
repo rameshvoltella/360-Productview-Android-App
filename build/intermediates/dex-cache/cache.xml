@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/munnazz/RAMZ/kpo/Product360/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/media/munnazz/RAMZ/kpo/Product360/app/build/intermediates/pre-dexed/debug/classes-8bf22a8e4e570f6dc84d829cdd76faee32310f6c.jar" />
+    </item>
+    <item
+        jar="/media/munnazz/RAMZ/kpo/Product360/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/media/munnazz/RAMZ/kpo/Product360/app/build/intermediates/pre-dexed/debug/classes-ff6ba10ddbf9218cfc01ee01f6036be14900fb92.jar" />
+    </item>
+    <item
+        jar="/media/munnazz/RAMZ/kpo/Product360/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/media/munnazz/RAMZ/kpo/Product360/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-4aa7dbe0de20dec6178cce2bae2ab0b3b9106fb2.jar" />
+    </item>
+    <item
+        jar="/media/munnazz/Studio/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/media/munnazz/RAMZ/kpo/Product360/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-2c96a52dad94aa4b262dc2500fdc415bc2888f07.jar" />
+    </item>
+
+</items>
