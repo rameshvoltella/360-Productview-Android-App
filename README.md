@@ -1,9 +1,18 @@
 # Draggable 360-Productview-Android-App
-This is a 360 degree product view seeing in shoppingcart sites.like view selcted product by roatating for android, build with jquery runs prefectly in webview.
+This is a 360 degree product view seeing in shoppingcart sites. User can view selected product by dragging round in 360 dregree like we see in cart sites this is an android version, build with help jquery runs prefectly in android webview.
 
 
 #1)jQuery Plugin For Draggable 360 Degrees Product Image View - j360 ([Link](http://www.jqueryscript.net/rotator/jQuery-Plugin-For-Draggable-360-Degrees-Product-Image-View-j360.html)) 
-an MIT Licence
+an MIT Licence Script
+
+    Script info from the site
+    File Size: 	866KB
+    Views Total: 	7204
+    Last Update: 	2 years ago
+    Publish Date: 	2 years ago
+    License: 	MIT
+Official Website: ([Go to website](http://blog.stableflow.com/jquery-plugins/360-degrees-product-view/))
+    
 
 #2)jquery.min.js ([Link](http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js)) 
 
