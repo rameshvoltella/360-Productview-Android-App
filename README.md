@@ -33,13 +33,12 @@ Hash-Tags: how to use
         android:layout_width="fill_parent"
         android:layout_height="fill_parent" />
 ```
-2. Cast in java
+2 Cast in java
 
 ```java
        ProductShowCaseWebView wv = (ProductShowCaseWebView) findViewById(R.id.web_view);
 ```
-
-3. Add images you need to use for the 360 view
+3 Add images you need to use for the 360 view
 
 ```java
        String imagesTag360="";
@@ -51,7 +50,7 @@ Hash-Tags: how to use
             imagesTag360=imagesTag360+"<img src=\"file:///android_asset/images/image1_"+i+".jpg\"/>" ;
         }
 ```
-4. To use images from url for 360 view
+4 To use images from url for 360 view
 ```java
 String imagesTag360="";
 
@@ -64,7 +63,7 @@ String imagesTag360="";
         }
 ```        
         
-5.  To make 360 degree draggable View
+5  To make 360 degree draggable View
 
 ```java
   wv.loadDataWithBaseURL("",
